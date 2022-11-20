@@ -1,4 +1,6 @@
 # dixio-test
+Deploy a SFTP server able to receive text files in an "incoming" folder 
+Develop feature that will read the first 20 characters of the uploaded files, store it, and then delete the file 
 
 Steps:
 1) create a non-user Id using IAM service in AWS
