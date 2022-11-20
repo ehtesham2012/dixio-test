@@ -13,8 +13,8 @@ do
 	rm -rf /incoming/$f
 done
 echo "sleep started"
-sleep 60
+sleep 600
 echo "sleep ended"
 do 
-echo "runs every 5 mins"
+echo "runs every 10 mins"
 done
